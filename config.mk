@@ -7,5 +7,4 @@ include $(call all-subdir-makefiles, $(LOCAL_PATH))
 PRODUCT_PACKAGES += \
     MT \
     via \
-    TelegreatX \
     SogouIMELauncher
