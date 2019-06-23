@@ -5,6 +5,4 @@ include $(call all-subdir-makefiles, $(LOCAL_PATH))
 # Third-party Packages
 
 PRODUCT_PACKAGES += \
-    MT \
-    via \
-    SogouIMELauncher
+    ViaBrowser
