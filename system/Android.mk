@@ -1,9 +1,9 @@
 LOCAL_PATH := $(call my-dir)
 
-# Third-party Packages
+# Brevent Packages
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := ViaBrowser
+LOCAL_MODULE := Brevent
 LOCAL_SRC_FILES := app/$(LOCAL_MODULE).apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_TAGS := optional
